@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+.main-container {
+  background-image: linear-gradient(#2b2c49, #303150, #b5b9ff);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

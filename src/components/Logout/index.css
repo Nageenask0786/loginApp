@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.logout-button {
+  height: 30px;
+  width: 120px;
+  background-color: #ffffff;
+  color: #2b2c49;
+  border: 0px;
+  border-radius: 5px;
+}
